@@ -1,0 +1,12 @@
+READ THE QUESTION CAREFULLY
+Look for hints in testcases
+Check the proof of your solution
+Look for optimal solution
+Don't get overwhelmed or discouraged during a contest it's just a question (~_^)
+Look at constraints carefully
+Crosscheck the solution before submitting to avoid silly mistakes
+Read the input format correctly
+PLEASE!!! PLEASE!!! PLEASE!!! WHILE SOLVING LOOK AT TEST CASES CAREFULLY
+ONLY GIVE CONTESTS WHEN YOU ARE NOT TIRED
+Look for Edge cases
+Have confidence in yourself :)
